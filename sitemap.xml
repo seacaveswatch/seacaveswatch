@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<urlset
+		xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+		xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+		xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+			http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+	<!-- This is the sitemap for the free demo version. This is NOT a list of all pages that the paid version includes. The paid version has a larger sitemap. -->
+		
+		<url>
+			<loc>http://wavesatseacaves.cee.wisc.edu</loc>
+		</url>
+		<url>
+			<loc>http://wavesatseacaves.cee.wisc.edu/index_htm.html</loc>
+		</url>
+		<url>
+			<loc>http://wavesatseacaves.cee.wisc.edu/Background.html</loc>
+		</url>
+		<url>
+			<loc>http://wavesatseacaves.cee.wisc.edu/System_Schematic.html</loc>
+		</url>
+		<url>
+			<loc>http://wavesatseacaves.cee.wisc.edu/Wave_Trends.html</loc>
+		</url>
+		<url>
+			<loc>http://wavesatseacaves.cee.wisc.edu/Wave_Description.html</loc>
+		</url>
+		<url>
+			<loc>http://wavesatseacaves.cee.wisc.edu/local_info.html</loc>
+		</url>
+		<url>
+			<loc>http://wavesatseacaves.cee.wisc.edu/Plot_4hrs.html</loc>
+		</url>
+		<url>
+			<loc>http://wavesatseacaves.cee.wisc.edu/Plot_2day.html</loc>
+		</url>
+		<url>
+			<loc>http://wavesatseacaves.cee.wisc.edu/Plot_10day.html</loc>
+		</url>
+		<url>
+			<loc>http://wavesatseacaves.cee.wisc.edu/wave_pics.html</loc>
+		</url>
+		<url>
+			<loc>http://wavesatseacaves.cee.wisc.edu/Plot_secret.html</loc>
+		</url>
+	</urlset>
